@@ -1,6 +1,6 @@
 # Rock Paper Scissors (Web-Based)
 
-A simple Rock Paper Scissors game built using Flask (Python), HTML, CSS, and JavaScript.
+A simple Rock Paper Scissors game built using Flask (Python), HTML and CSS
 
 ## How to Run
 1. Install Flask:
